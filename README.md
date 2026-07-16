@@ -49,7 +49,7 @@ The dataset was cleaned using SQL by:
 
 ## 📷 Dashboard Preview
 
-![NETFLIX DASHBOARD](dashboard.jpeg)
+![NETFLIX DASHBOARD](NETFLIX%20DASHBOARDjpeg)
 
 
 ## 👤 Author
