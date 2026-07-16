@@ -1,43 +1,37 @@
-# Netflix Movies & TV Shows Analysis
+# 🎬 Netflix Movies & TV Shows Analysis
 
 ## 📌 Project Overview
 
-This project explores the Netflix Movies & TV Shows dataset to uncover trends in content distribution, genres, ratings, release years, and country contributions. The project demonstrates a complete data analytics workflow by using SQL for data cleaning, Microsoft Excel for dashboard creation, and Jupyter Notebook for documenting the analysis and presenting insights.
+This project explores the Netflix Movies & TV Shows dataset to uncover trends in content distribution, ratings, genres, release years, and countries. The data was cleaned using SQL, analyzed and documented in Jupyter Notebook, and presented through an interactive Microsoft Excel dashboard.
 
 ## 🎯 Objectives
 
-- Clean and prepare the Netflix dataset using SQL.
-- Analyze trends in Netflix content.
-- Identify the countries producing the most content.
-- Examine content ratings and genre distribution.
-- Explore release year trends.
-- Present insights through an interactive Excel dashboard.
-
+- Clean and transform the Netflix dataset using SQL.
+- Analyze Netflix content trends.
+- Identify top content-producing countries.
+- Explore ratings and genre distribution.
+- Examine release year trends.
+- Present findings through an interactive Excel dashboard.
+  
 ## 🛠️ Tools Used
 
-- PostgreSQL (SQL) – Data cleaning and transformation
-- Microsoft Excel – Dashboard creation and visualization
-- Jupyter Notebook – Analysis documentation and reporting
+- **SQL** – Data cleaning and transformation
+- **Microsoft Excel** – Dashboard creation and visualization
+- **Jupyter Notebook** – Analysis documentation and reporting
+- 
+## 📂 Project Files
 
-## 🧹 Data Cleaning
+- Netflix Analysis Jupyter Notebook.ipynb
+- NETFLIX MOVIE AND TV SHOW.xlsx
+- NETFLIX DASHBOARD.jpeg
 
-The dataset was cleaned using SQL by:
+## 📊 Analysis Performed
 
-- Removing duplicate records.
-- Handling missing values.
-- Standardizing data formats.
-- Correcting inconsistent entries.
-- Preparing the dataset for analysis and visualization.
-
-## 📊 Dashboard Highlights
-
-- Total Movies and TV Shows
-- Content Distribution by Country
+- Content Type Distribution
+- Top Producing Countries
 - Content Ratings Analysis
 - Genre Distribution
 - Release Year Trends
-
----
 
 ## 🔍 Key Insights
 
@@ -47,14 +41,14 @@ The dataset was cleaned using SQL by:
 - Netflix experienced significant growth in content additions during the late 2010s.
 - TV-MA is one of the most common content ratings.
 
+
 ## 📷 Dashboard Preview
 
-![NETFLIX DASHBOARD](NETFLIX%20DASHBOARDjpeg)
-
+![Netflix Dashboard](NETFLIX%20DASHBOARD.jpeg)
 
 ## 👤 Author
 
-** Giwa Halimat**
+Giwa Halimat
 
 Petroleum Chemistry Graduate | Data Analytics Intern | Aspiring Energy Data Analyst
 
